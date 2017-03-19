@@ -2,3 +2,8 @@ cap1.md
 cap2.md
 cap3.md
 cap4.md
+cap5.md
+cap6.md
+cap7.md
+cap8.md
+cap9.md
