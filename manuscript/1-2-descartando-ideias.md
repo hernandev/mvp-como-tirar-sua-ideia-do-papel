@@ -1,6 +1,6 @@
 {mainmatter}
 
-# 2 - Descartando Ideias
+# 2 - Descartando Ideias (Em progresso)
 
 Acho que nesse ponto, já consegui explicar com clareza o público alvo desse livro.
 Basicamente, ele é voltado para desenvolvedores, que precisam gerenciar
@@ -53,3 +53,5 @@ pior do que um cliente não atendido.
 
 Se o projeto for seu, não perca tempo com ideias que tem pouca chance de darem certo. A menos é claro,
 que queira jogar tempo e dinheiro fora.
+
+-- *Continua*
