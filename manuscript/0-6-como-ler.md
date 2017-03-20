@@ -1,5 +1,3 @@
-{frontmatter}
-
 # Como Ler Esse Livro
 
 Esse livro está (planejadamente) dividido em 20 capítulos curtos,

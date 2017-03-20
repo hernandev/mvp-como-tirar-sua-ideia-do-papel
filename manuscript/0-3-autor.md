@@ -1,5 +1,3 @@
-{frontmatter}
-
 # Sobre o Autor
 
 Diego Hernandes é desenvolvedor web a aproximandamente 10 anos. 

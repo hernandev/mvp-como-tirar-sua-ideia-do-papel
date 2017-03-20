@@ -1,5 +1,3 @@
-{frontmatter}
-
 # Introdução
 
 Desde meus primeiros pequenos projetos de software, sempre tive alguma 

@@ -1,5 +1,3 @@
-{mainmatter}
-
 # 2 - Descartando Ideias (Em progresso)
 
 Acho que nesse ponto, já consegui explicar com clareza o público alvo desse livro.
