@@ -54,4 +54,6 @@ mundo real, nos forneceram feedback necessário para repensar completamente os 8
 MVP é sobre os 20%. MVP é sobre evoluir os 20% baseado em feedback. MVP é sobre validar uma ideia o quão antes possível, e assim evitar
 trabalho desnecessário.
 
+A intenção desse capítulo é ser curto, para que você tenha uma visão geral do que vamos ver aqui.
+
 Se ainda não está convencido, durante o restante do livro essas ideias serão melhores ilustradas.
