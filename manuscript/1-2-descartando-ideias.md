@@ -7,9 +7,9 @@ um grande projeto próprio ou de terceiros.
 Seja qual for seu caso, esse captítulo se aplica a você. Existem duas regras antes mesmo de orçar um projeto 
 que devem ser seguidas, na verdade são duas perguntas:
 
-> O quão eu acredito no potencial desse projeto?
+> ***O quão eu acredito no potencial desse projeto?***
 
-> O quão realista é minha crença sobre o potencial desse projeto?
+> ***O quão realista é minha crença sobre o potencial desse projeto?***
 
 Só inicie um projeto, seu ou de terceiros, após refletir com entusiamo sobre a primeira pergunta, 
 e refletir duas vezes mais, com cautela e pés no chão sobre a segunda.

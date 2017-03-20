@@ -2,8 +2,9 @@
 0-2-agradecimentos.md
 0-3-autor.md
 0-4-prefacio.md
-0-5-intro.md
-0-6-como-ler.md
+0-5-como-ler.md
+0-6-contribua.md
+0-7-intro.md
 1-1-mvp.md
 1-2-descartando-ideias.md
 
