@@ -10,7 +10,7 @@
 : Por me inspirar em manter o conhecimento desse livro aberto e acessível.
 
 [Victor Rodrigues](mailto:vitzz.rodrigues@gmail.com)
-: Ao meu amigo, pela linda obra de arte da capa desse livro.
+: Ao meu amigo e excepcional Designer Gráfico, pela linda obra de arte da capa desse livro.
  
 
  
