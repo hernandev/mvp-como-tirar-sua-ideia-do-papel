@@ -1,4 +1,5 @@
 {frontmatter}
+
 # Introdução
 
 Olá, meu nome é Diego Hernandes, sou co-fundador do CODECASTS e CTO na Kino Contabilidade.
@@ -19,6 +20,7 @@ Esse artigo também é sobre todas as vezes que cometi grandes erros de planejam
 Esse artigo é principalmente, sobre um caso real, onde emprego tudo aquilo que aprendi ao longo dos anos aplicado no último grande projeto em que estive envolvido, a [Kino Contabilidade Online](https://sejakino.com.br).
 
 ## Objetivo
+
 Você talvez já tenha se encontrado em um dos seguintes cenários:
 
 Uma ideia que nunca sai do papel por falta de planejamento adequado.

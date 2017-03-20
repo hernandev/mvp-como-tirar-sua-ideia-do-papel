@@ -1,3 +1,5 @@
+{mainmatter}
+
 # Saiba tomar decisões!
 
 Se existe algo incorreto sobre o gerenciamento de projetos, é a afirmação de que quanto melhor você planejar, melhor seu projeto estará gerenciado.
