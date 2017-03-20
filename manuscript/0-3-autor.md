@@ -1,7 +1,7 @@
 # Sobre o Autor
 
 Diego Hernandes é desenvolvedor web a aproximandamente 10 anos. 
-É certificado como [Zend Certified PHP Enginner](www.zend.com/en/yellow-pages/ZEND026619), e já
+É certificado como [Zend Certified PHP Enginner](https://www.zend.com/en/yellow-pages/ZEND026619), e já
 desenvolveu e gerenciou diversos projetos web de missão crítica.
 
 Atualmente, Diego divide seu tempo entre as atividades de CTO
