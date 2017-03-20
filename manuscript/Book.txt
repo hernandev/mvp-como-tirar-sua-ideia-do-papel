@@ -5,4 +5,5 @@
 0-5-intro.md
 0-6-como-ler.md
 1-1-mvp.md
+1-2-descartando-ideias.md
 
