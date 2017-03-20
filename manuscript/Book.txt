@@ -1,9 +1,5 @@
-cap1.md
-cap2.md
-cap3.md
-cap4.md
-cap5.md
-cap6.md
-cap7.md
-cap8.md
-cap9.md
+0-1-prefacio.md
+0-2-dedicatoria.md
+0-3-agradecimentos.md
+0-4-intro.md
+1-1-tomada-de-decisoes.md
