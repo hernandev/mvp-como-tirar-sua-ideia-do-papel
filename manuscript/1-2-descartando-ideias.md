@@ -1,4 +1,4 @@
-# 2 - Descartando Ideias (Em progresso)
+# 2 - Descartando Ideias
 
 Acho que nesse ponto, já consegui explicar com clareza o público alvo desse livro.
 Basicamente, ele é voltado para desenvolvedores, que precisam gerenciar
