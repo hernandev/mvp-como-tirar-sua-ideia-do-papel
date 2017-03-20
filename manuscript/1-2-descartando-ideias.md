@@ -52,4 +52,27 @@ pior do que um cliente não atendido.
 Se o projeto for seu, não perca tempo com ideias que tem pouca chance de darem certo. A menos é claro,
 que queira jogar tempo e dinheiro fora.
 
--- *Continua*
+## Como prever o sucesso de um projeto?
+
+Sim, mesmo que você acredite numa ideia, você ainda precisa de um pouco mais de realismo antes de decidir ir em frente, eu prometo atualizar referencias nessa seção, pois não vou conseguir me lembrar de todos os autores que dizem exatamente o que vou dizer agora.
+
+> **Uma startup só irá ter sucesso quando ela resolve problemas reais, quando ela facilita a vida de alguem**
+
+Geralmente essa frase vem relacionada com aquela velha história de como ficar rico. Você vai ver muita baboseira sobre enriquecimento mas a única coisa que realmente dá pra extrair dessa literatura é que, de fato, é praticamente impossível ter sucesso sem impacto social.
+
+Quando digo impacto social, não quero dizer que todas as novas ideias devem ser voltadas a solucionar a fome na áfrica. Na verdade, basta que sua ideia torna a vida de um grupo de pessoas melhor.
+
+Na Kino, a ideia era muito, muito simples, e foi o que me fez aceitar e entrar de cara no projeto.
+Não oferecemos serviços de contabilidade, oferecemos a desburocratização para empreededores e profissionais autônomos.
+
+Mesmo que nosso escopo de clientes seja limitado, existem milhões de prestadores de serviços, completamente perdidos com toda a burocracia de manter uma empresa em dia com suas obrigaçes legais.
+
+A Kino nasceu da ideia de que, essas pessoas precisam desses serviços, e nós, precisamos oferecer os mesmos com a mesma praticidade com que se pede uma pizza no iFood ou uma corrida no Uber.
+
+Apresentei um pouco da viso geral inicial da Kino, pra lhe ilustrar na vida real como filtrar ideias que dão certo, você precisa ter um público alvo mínimo, e seu produto / serviço deve fazer a diferença na vida dessas pessoas.
+
+Lembre-se: Você quer que as pessoas gastem dinheiro com seus serviços, você no vai conseguir isso até que o valor real seja claro, evidente ao cliente. Só é possivel fazer isso causando impacto.
+
+Quando falo sobre o tema acima, não chego nem a empregar o termo disruptivo, empresas realmente disruptivas são raras. Estou falando de, fazer alguma diferença na vida dos usuários. Essa diferença pode ser mínima, mas não tão pequena ao ponto de ser ignorada.
+
+Esse capítulo é de certa forma um pouco abstrato. Tentarei incluir outros exemplos ao longo dos próximos capítulos para que essas ideias sejam um pouco melhor exploradas.
