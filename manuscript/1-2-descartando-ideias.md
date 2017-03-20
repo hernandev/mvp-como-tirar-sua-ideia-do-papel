@@ -52,7 +52,7 @@ pior do que um cliente não atendido.
 Se o projeto for seu, não perca tempo com ideias que tem pouca chance de darem certo. A menos é claro,
 que queira jogar tempo e dinheiro fora.
 
-## Como prever o sucesso de um projeto?
+## 2.1 - Como prever o sucesso de um projeto?
 
 Sim, mesmo que você acredite numa ideia, você ainda precisa de um pouco mais de realismo antes de decidir ir em frente, eu prometo atualizar referencias nessa seção, pois não vou conseguir me lembrar de todos os autores que dizem exatamente o que vou dizer agora.
 
