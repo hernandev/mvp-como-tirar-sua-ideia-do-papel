@@ -1,4 +1,3 @@
-0-1-dedicatoria.md
 0-2-agradecimentos.md
 0-3-autor.md
 0-4-prefacio.md
