@@ -7,4 +7,4 @@
 0-7-intro.md
 1-1-mvp.md
 1-2-descartando-ideias.md
-1-3-o-valor-de-um-projeto.md
+1-3-o-valor-do-tempo.md
