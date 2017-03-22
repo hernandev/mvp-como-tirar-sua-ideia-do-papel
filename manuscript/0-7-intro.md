@@ -29,7 +29,7 @@ Você talvez já tenha se encontrado em um dos cenários a seguir:
 - Uma ideia que nunca sai do papel por falta de planejamento adequado.
 - Um contrato desperdiçado, por conta da insegurança em entregar um projeto de grande porte em tempo hábil.
 - Um projeto de médio ou grande porte indo por água a baixo, sem se quer que você entenda o motivo.
-- Um cliente/investidor completamente insatisfeito com o resultado, que até saiu dentro do prazo, mas atende as expectativas.
+- Um cliente/investidor completamente insatisfeito com o resultado, que até saiu dentro do prazo, mas não atende às expectativas.
 
 Eu preciso ser sincero, já estive em todas as posições acima e sei
 o quão frustrante é.
