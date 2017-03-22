@@ -40,7 +40,7 @@ Mesmo o título sendo meio brega, essa seção é importante. Se durante os 6 m�
 
 O cliente vai ficar igual ao Burro do Shrek, perguntando se "já chegamos" todo dia no Skype, no telefone. Isso gera um desgaste enorme para ambas as partes.
 
-### 4.2 - Entregue Sempre
+## 4.2 - Entregue Sempre
 
 Se você conhece um pouco de scrum, deve estar acostumado com o termo "Sprint", uma pequena unidade de tempo, medida em dias ou semanas, onde um conjunto de tarefas é determinado, e ao final desse período, o "product-owner" sabe que alguma coisa será entregue.
 
@@ -57,28 +57,34 @@ Dessa forma, você faz com que o trabalho dite o cronograma, e não o contrário
 
 Recuperei aqui do email, o planejamento que fizemos para a Kino, assim você tem uma versão palpável do que estou falando:
 
-1.1 - Primeira Etapa
+**Primeira Etapa**
+
 - Desenvolvimento de Interfaces do Sistemas
 - Desenvolvimento do esqueleto das distintas áreas do sistema
 - (1 item reduzido).
 
-1.2 - Segunda Etapa
+**Segunda Etapa**
+
 - Controle de Contas a pagar
 - (2 items reduzidos).
 
-1.3 - Terceira Etapa
+**Terceira Etapa**
+
 - Assinaturas Recorrentes
 - (3 items reduzidos).
 
-1.4 - Quarta Etapa
+**Quarta Etapa**
+
 - Integração NFSe PBH.
 - (2 items reduzidos).
 
-1.5 - Quinta Entrega (15/03/2016)
+**Quinta Etapa**
+
 - Sistema de Notificações.
 - (5 items reduzidos).
 
-1.6 – Entrega Final
+**Etapa Final**
+
 - Ajustes, Bugs e Melhorias
 
 Veja que a quantidade de items por etapa varia, pois cada item tinha uma estimativa diferente de trabalho. Mas tinhamos estimado com segurança, que era possível desenvolver os items de cada etapa durante 3 semanas.
