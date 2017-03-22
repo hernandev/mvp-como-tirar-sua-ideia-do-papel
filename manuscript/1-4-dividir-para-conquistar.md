@@ -129,3 +129,24 @@ Sabe quando falamos dos problemas pessoais? Basicamente, nesse modelo, você fic
 Vai poder ainda, dar manutenção naquele projeto de um cliente antigo, ir ao uma conferência, quem sabe pegar um freela rápido entre ou durante as etapas.
 
 Estruturando seus projetos dessa forma, você garante que o projeto não irá sugar suas forças. Você pode inclusive, o fazer de forma paralela com outras atividades que demandam igualmente tempo (inclusive seu trampo CLT, se tiver coragem).
+
+## 4.5 - Onde entra o Scrum Nessa Hitória?
+
+Lembra que falamos sobre sprints certo? Você não precisa usar scrum por completo (apesar de eu gostar muito). Se você optar por usar, deixo como dica definir cada semana de uma etapa em sprints.
+
+Dessa forma, cada etapa terá 4 sprints.
+
+Você pode fazer isso, no primeiro dia de uma etapa, olhar as funcionalidades a serem desenvolvidas e quebrá-las em tarefas.
+
+Dessa forma você tem um controle refinado do progresso da etapa, e consecutivamente do projeto.
+
+A parte interessante é que, você não precisa criar 1000 entradas no backlog de tudo que tem que ser desenvolvido durante o proejto, você pode, simplesmente, criar o backlog específicamente para a etapa.
+
+
+## 4.6 - Orçamento
+
+Esse ponto é importante, e eu talvez quebre essa seção em um capítulo a parte.
+
+Como agora você tem exatamente um framework para trabalhar seu projeto, sabe com relativa precisão quando ele será terminado, tem uma base muito mais realista de como cobrar pelos seus serviços.
+
+Você pode definir um valor por etapa, e então aplicar esse valor ao número de etapas necessárias, incluindo a etapa de ajustes finais.
