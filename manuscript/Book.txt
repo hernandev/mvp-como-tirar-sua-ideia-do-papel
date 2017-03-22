@@ -8,3 +8,4 @@
 1-1-mvp.md
 1-2-descartando-ideias.md
 1-3-o-valor-do-tempo.md
+1-4-dividir-para-conquistar.md
