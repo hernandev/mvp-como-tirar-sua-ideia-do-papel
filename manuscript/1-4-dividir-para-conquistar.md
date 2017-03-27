@@ -8,11 +8,11 @@ Lembra aquele projeto de 400 horas? Como traçar um plano de trabalho que irá s
 
 De modo simples, o que funcionou pra mim, de forma explêndida e foi novamente comprovado durante o desenvolvimento do MVP da [Kino](https://sejakino.com.br), é tratar o desenvolvimento como vários pequenos projetos.
 
-Vamos chamar esse pequenos projetos de **etapas**. Vamos fazer pois é exatamente o que eles são. 
+Vamos chamar esses pequenos projetos de **etapas**. Vamos fazer pois é exatamente o que eles são. 
 
 Ao invéz de te dar a teoria, vamos falar sobre isso na prática.
 
-Quando primeiramente, eu o [Vinicius Reis](https://github.com/vinicius73) analisamos o escopo do projeto da Kino, tinhamos em mente algo em torno de 800 horas brutas de desenvolvimento.
+Quando primeiramente, eu e o [Vinicius Reis](https://github.com/vinicius73) analisamos o escopo do projeto da Kino, tínhamos em mente algo em torno de 800 horas brutas de desenvolvimento.
 
 Lembre se que eu falei no capítulo anterior, use horas somente como um meio, não como elo.
 
@@ -26,17 +26,17 @@ Como desenvolvedor, que precisa botar comida na mesa (mesmo que as vezes figurat
 
 O rumo desse projeto tomou mudanças drásticas, que você irá acompanhar ao longo desse livro, mas por enquanto, vamos nos ater aos primeiros dias. Eles são extremamente fundamentais.
 
-O escopo inicial chegamos a 6 mêses de desenvolvimento, até o MVP da Kino estar concluido, e assim poderíamos iniciar outro estágio, de funcionlidades adicionais.
+O escopo inicial chegamos a 6 meses de desenvolvimento, até o MVP da Kino estar concluido, e assim poderíamos iniciar outro estágio, de funcionlidades adicionais.
 
-Como eu havia dito, a nossa estimativa era de 800 horas, ao longo de 6 mêses, para 2 desenvolvedores. Uma média de 133 horas por mês, o que resultam em 66 horas pra cada desenvolvedor.
+Como eu havia dito, a nossa estimativa era de 800 horas, ao longo de 6 meses, para 2 desenvolvedores. Uma média de 133 horas por mês, o que resultam em 66 horas pra cada desenvolvedor.
 
-Como chegamos a conclusão de 6 mêses? Simples, dividimos o projeto em 6 etapas, 6 pequenos projetos onde todos os envolvidos, ao final de cada mês, poderiam testar, aprovar e dar seguimento ao projeto.
+Como chegamos a conclusão de 6 meses? Simples, dividimos o projeto em 6 etapas, 6 pequenos projetos onde todos os envolvidos, ao final de cada mês, poderiam testar, aprovar e dar seguimento ao projeto.
 
 Mas calma, vamos entrar em detalhes, mas antes, vou lhe apresentar um problema de grandes projetos.
 
 ## 4.1 - Síndrome do Burro do Shrek
 
-Mesmo o título sendo meio brega, essa seção é importante. Se durante os 6 mêses de desenvolvimento, fossemos marcar reuniões e mandar emails esporádicos sobre o progresso, a ansiedade e falta de comunicação pode se tornar um fator decisivo ao sucesso do projeto.
+Mesmo o título sendo meio brega, essa seção é importante. Se durante os 6 meses de desenvolvimento, fossemos marcar reuniões e mandar emails esporádicos sobre o progresso, a ansiedade e falta de comunicação pode se tornar um fator decisivo ao sucesso do projeto.
 
 O cliente vai ficar igual ao Burro do Shrek, perguntando se "já chegamos" todo dia no Skype, no telefone. Isso gera um desgaste enorme para ambas as partes.
 
@@ -87,15 +87,15 @@ Recuperei aqui do email, o planejamento que fizemos para a Kino, assim você tem
 
 - Ajustes, Bugs e Melhorias
 
-Veja que a quantidade de items por etapa varia, pois cada item tinha uma estimativa diferente de trabalho. Mas tinhamos estimado com segurança, que era possível desenvolver os items de cada etapa durante 3 semanas.
+Veja que a quantidade de items por etapa varia, pois cada item tinha uma estimativa diferente de trabalho. Mas tínhamos estimado com segurança, que era possível desenvolver os items de cada etapa durante 3 semanas.
 
 Feito isso, o product owner sabia exatamente, que ao final de 3 semanas, iriamos testar juntos o que foi desenvolvido, e durante a quarta semana, iriamos fazer correções e ajustes.
 
-Essa é uma forma de não criar o atrito do Burro do Shrek, nós sabíamos exatamente o tempo que tinhamos pra desenvolver um escopo limitado. O product owner sabe exatamente quando irá testar o sistema e dar feedback, e as correções mais urgentes não iriam ser deixadas para depois.
+Essa é uma forma de não criar o atrito do Burro do Shrek, nós sabíamos exatamente o tempo que tínhamos pra desenvolver um escopo limitado. O product owner sabe exatamente quando irá testar o sistema e dar feedback, e as correções mais urgentes não iriam ser deixadas para depois.
 
-Encerrada uma etapa, tinhamos uma parte do sistema, pronta, testada, e as energias renovadas pra iniciar a próxima.
+Encerrada uma etapa, tínhamos uma parte do sistema, pronta, testada, e as energias renovadas pra iniciar a próxima.
 
-O ciclo se repete, se você ler esse capítulo com calma, perceberá que é algo realmente simples de se por em prática, mas alguns cuidados devem ser tomados.
+O ciclo se repete, se você ler esse capítulo com calma, perceberá que é algo realmente simples de se pôr em prática, mas alguns cuidados devem ser tomados.
 
 - O product owner precisa entender, antes de qualquer contrato o modelo a ser seguido.
 - Assim como qualquer política, não é possível implementar sem empenho e responsabilidade entre as partes.
@@ -104,13 +104,13 @@ Ainda não disse sobre a etapa final, de ajustes. Mesmo seguindo essa metodologi
 
 Tudo Bem! Existe um momento, ao final onde tudo é retestado, e as 3 semanas da etapa ficam exclusivamente para fechar pontas soltas. Retestar e assegurar a qualidade do MVP.
 
-Lembra sobre os 6 meses? Basicamente, estipulamos que, o escopo completo (que havia sido reduzido) poderia ser concluido em 5 iteraçes de 3 semanas. Como cada iteração tem 1 semana adicional para correções, chegamos a 1 etapa por mês. 5 mêses de desenvolvimento, e uma etapa de melhorias.
+Lembra sobre os 6 meses? Basicamente, estipulamos que, o escopo completo (que havia sido reduzido) poderia ser concluido em 5 iteraçes de 3 semanas. Como cada iteração tem 1 semana adicional para correções, chegamos a 1 etapa por mês. 5 meses de desenvolvimento, e uma etapa de melhorias.
 
 ## 4.3 - Mas o Cliente Tem Pressa!
 
 Não, o cliente não tem pressa, ele somente pensa que tem.
 
-Cabe ao desenvolvedor, explicar minimamente ao proponente, que "a mona lisa não foi pintada em 10 minutos". Para que se aja um mínimo de qualidade, é necessário tempo.
+Cabe ao desenvolvedor, explicar minimamente ao proponente, que "a mona lisa não foi pintada em 10 minutos". Para que se haja um mínimo de qualidade, é necessário tempo.
 
 Quando digo tempo, me refiro ao tempo do capítulo anterior, e não a horas de desenvolvimento. Existem todos os fatores citados anteriormente a serem levados em conta.
 
@@ -130,9 +130,9 @@ Simplesmente pelo fato de que, é impossível fazer com qualidade.
 
 ## 4.4 - Mantendo a Sanidade
 
-Sabe quando falamos dos problemas pessoais? Basicamente, nesse modelo, você fica livre para tê-los. O projeto, estruturado dessa forma vai suportar alguns dias de folga, você vai ter tempo livro pra passar com sua família e resolver seus problemas pessoas.
+Sabe quando falamos dos problemas pessoais? Basicamente, nesse modelo, você fica livre para tê-los. O projeto, estruturado dessa forma vai suportar alguns dias de folga, você vai ter tempo livro pra passar com sua família e resolver seus problemas pessoais.
 
-Vai poder ainda, dar manutenção naquele projeto de um cliente antigo, ir ao uma conferência, quem sabe pegar um freela rápido entre ou durante as etapas.
+Vai poder ainda, dar manutenção naquele projeto de um cliente antigo, ir a uma conferência, quem sabe pegar um freela rápido entre ou durante as etapas.
 
 Estruturando seus projetos dessa forma, você garante que o projeto não irá sugar suas forças. Você pode inclusive, o fazer de forma paralela com outras atividades que demandam igualmente tempo (inclusive seu trampo CLT, se tiver coragem).
 
@@ -146,7 +146,7 @@ Você pode fazer isso, no primeiro dia de uma etapa, olhar as funcionalidades a 
 
 Dessa forma você tem um controle refinado do progresso da etapa, e consecutivamente do projeto.
 
-A parte interessante é que, você não precisa criar 1000 entradas no backlog de tudo que tem que ser desenvolvido durante o proejto, você pode, simplesmente, criar o backlog específicamente para a etapa.
+A parte interessante é que, você não precisa criar 1000 entradas no backlog de tudo que tem que ser desenvolvido durante o projeto, você pode, simplesmente, criar o backlog especificamente para a etapa.
 
 
 ## 4.6 - Orçamento
