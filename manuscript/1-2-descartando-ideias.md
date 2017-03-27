@@ -69,9 +69,9 @@ Mesmo que nosso escopo de clientes seja limitado, existem milhões de prestadore
 
 A Kino nasceu da ideia de que, essas pessoas precisam desses serviços, e nós, precisamos oferecer os mesmos com a mesma praticidade com que se pede uma pizza no iFood ou uma corrida no Uber.
 
-Apresentei um pouco da viso geral inicial da Kino, pra lhe ilustrar na vida real como filtrar ideias que dão certo, você precisa ter um público alvo mínimo, e seu produto / serviço deve fazer a diferença na vida dessas pessoas.
+Apresentei um pouco da visão geral inicial da Kino, pra lhe ilustrar na vida real como filtrar ideias que dão certo, você precisa ter um público alvo mínimo, e seu produto / serviço deve fazer a diferença na vida dessas pessoas.
 
-Lembre-se: Você quer que as pessoas gastem dinheiro com seus serviços, você no vai conseguir isso até que o valor real seja claro, evidente ao cliente. Só é possivel fazer isso causando impacto.
+Lembre-se: Você quer que as pessoas gastem dinheiro com seus serviços, você não vai conseguir isso até que o valor real seja claro, evidente ao cliente. Só é possivel fazer isso causando impacto.
 
 Quando falo sobre o tema acima, não chego nem a empregar o termo disruptivo, empresas realmente disruptivas são raras. Estou falando de, fazer alguma diferença na vida dos usuários. Essa diferença pode ser mínima, mas não tão pequena ao ponto de ser ignorada.
 
