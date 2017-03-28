@@ -2,7 +2,7 @@
 
 Um dos erros mais cometidos por desenvolvedores e equipes é errarem miseravelmente a estimativa de tempo (e consequentemente, o orçamento) de um projeto.
 
-Esse capítulo é uma introdução a orçamentos, e mesmo que você esteja para desenvolver um projeto próprio, sugiro que siga o mesmo com ainda mais vigor do que aqueles que irão desenvolver para terceiros. Você vai investir algum dinheiro, mas principalmente muito tempo da sua vida em cima de um projeto. Nada mais justo que uma ponderada estimativa para entender o quo viável sua ideia é.
+Esse capítulo é uma introdução a orçamentos, e mesmo que você esteja para desenvolver um projeto próprio, sugiro que siga o mesmo com ainda mais vigor do que aqueles que irão desenvolver para terceiros. Você vai investir algum dinheiro, mas principalmente muito tempo da sua vida em cima de um projeto. Nada mais justo que uma ponderada estimativa para entender o quão viável sua ideia é.
 
 ## 3.1 - Não Confie na Calculadora
 
@@ -20,7 +20,7 @@ Quando você faz a conta na calculadora (não faça orçamentos de cabeça, voc�
 
 Na realidade, as coisas mudam drasticamente.
 
-Vamos atacar todos os problemas de abordagems como essa, pra que você entenda melhor que nunca deve fazer orçamentos / estimativas de forma tão simplista.
+Vamos atacar todos os problemas de abordagens como essa, pra que você entenda melhor que nunca deve fazer orçamentos / estimativas de forma tão simplista.
 
 O primeiro ponto é que nenhum programador (pelo menos no que eu conheça) consegue manter um bom rendimento por mais de 4 ou 5 horas em um dia. Somos humanos, dependemos de uma mente afiada para entregar um trabalho de qualidade. 
 
@@ -42,15 +42,15 @@ A deadline vai se aproximando e você vai se desesperando (pelo menos se for com
 
 Mas calma, estamos longe de terminar...
 
-Não contabilizamos ainda os dias que sua internet pode cair, e outros problemas pessoais podem entrar no caminho da conclusão do projeto.
+Não contabilizamos ainda os dias que sua internet pode cair, e outros problemas pessoais que podem entrar no caminho da conclusão do projeto.
 
 Não contabilizamos ainda, todo o feedback que as pessoas envolvidas demoram dias pra te dar.
 
-Não contabilizamos ainda, que você pode ter errado e feito em estimar as 400 horas iniciais.
+Não contabilizamos ainda, que você pode ter errado e feio em estimar as 400 horas iniciais.
 
 ## 3.2 - Afinal Quanto Vale o Tempo?
 
-Essa é grande pergunta da humanidade, desde a revolução industrial, e provavelmente antes disso também. Apenas especifique horas para chegar a um valor, horas devem ser uma estimativa. Não o elo de um contrato.
+Essa é a grande pergunta da humanidade, desde a revolução industrial, e provavelmente antes disso também. Apenas especifique horas para chegar a um valor, horas devem ser uma estimativa. Não o elo de um contrato.
 
 Use estimativas em horas como um meio, não um fim. 
 
