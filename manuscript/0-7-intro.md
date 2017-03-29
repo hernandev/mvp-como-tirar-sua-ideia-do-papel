@@ -1,7 +1,7 @@
 # Introdução
 
 Desde meus primeiros pequenos projetos de software, sempre tive alguma 
-dificuldade em gerenciar recursos, tempo, e de fazer previsões acertadas
+dificuldade em gerenciar recursos, tempo e de fazer previsões acertadas
 sobre um projeto.
 
 Com o tempo, as demandas de projetos (cada vez maiores) me fizeram aprender,
@@ -9,19 +9,19 @@ da maneira árdua, aquilo que era fundamental colocar em prática. Ou seja,
 tive a oportunidade de provar empiricamente muitas das teorias sobre
 desenvolvimento de software.
 
-Esse livro nasce do meu profundo desejo de compartilhar minhas técnicas e
+Este livro nasce do meu profundo desejo de compartilhar minhas técnicas e
 soluções com você, desenvolvedor, e assim, talvez ajudá-lo a tomar
 decisões de projeto mais acertadas.
 
 Como você pode ver no título do livro, vamos falar de MVP. Não se preocupe
-se a sigla não quer dizer nada pra você ainda, acredite, em breve ela irá.
+se a sigla quer dizer nada pra você ainda, acredite, em breve ela irá.
 
-Ao longo dos capítulos, irei apresentar alguns conceitos, que serão 
+Ao longo dos capítulos, irei apresentar alguns conceitos que serão 
 descritos como relatos de projetos nos quais eu participei.
 
-Esteja você desenvolvedor, com uma ideia para um nova Startup ou tenha sido
-contratado para desenvolver uma, esse livro busca lhe dar dicas valiosas
-de como evitar os mais comuns erros de projeto, que podem levar seu projeto ao 
+Esteja você desenvolvendo uma ideia para uma nova Startup ou tenha sido
+contratado para desenvolver uma, este livro busca lhe dar dicas valiosas
+de como evitar os erros mais comuns que podem levar seu projeto ao 
 fracasso.
 
 Você talvez já tenha se encontrado em um dos cenários a seguir:
